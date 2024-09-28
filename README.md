@@ -1,2 +1,2 @@
-# DSA level 1 in python
-This is level 1 milestone which are fundamental for algorithmic problem solving.
+# This is where 0 to 1 starts
+This is level 1 milestone which are ideal for foundational algorithmic solution.
