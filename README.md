@@ -20,3 +20,5 @@ Each problem is a step up in understanding, with helpful hints and explanations 
 
 🚀 Ready to Start?
 Clone this repository, set up your favorite Python editor, and let’s get coding! Remember, Level 1 is just the beginning; once you’re feeling confident, look forward to the next level where things get a little trickier!
+
+Problems credit - CS50p
